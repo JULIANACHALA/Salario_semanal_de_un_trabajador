@@ -1,0 +1,1 @@
+# Salario_semanal_de_un_trabajador
